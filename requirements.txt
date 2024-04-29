@@ -2,3 +2,10 @@ boto3
 ffmpeg
 ffmpeg-python
 python-decouple
+# torch==1.8.1+cpu
+https://download.pytorch.org/whl/cpu/torch-1.8.0-cp38-cp38-manylinux2014_aarch64.whl#sha256=affef9bce6eed232308dd89d55d3a37a105f35460f4705375980d27154c51e24
+# torchvision==0.9.1+cpu
+https://download.pytorch.org/whl/cpu/torchvision-0.9.1-cp38-cp38-manylinux2014_aarch64.whl#sha256=85f21862e504590eb4a77b1d9a1742156a296af55827fb8c82296601922b7ac1
+opencv-python
+Pillow
+facenet_pytorch
